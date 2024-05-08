@@ -1,0 +1,73 @@
+# My First Markdown
+
+
+# H1: This is a level 1 Heading
+## H2: This is a level 2 Heading
+### H3: This is a level 3 Heading
+#### H4: This is a level 4 Heading
+##### H5: This is a level 5 Heading
+###### H6: This is a level 6 Heading
+
+**Bold Text using asterisks.**  
+__Bold Text using underscores.__
+
+*Italic Text using asterisks.*  
+_Italic Text using underscores._
+
+***Bold and Italic text using asterisks.***  
+___Bold and Italic text using underscores.___
+
+
+Hyperlinks
+[Name of the Link](Link url)
+[Skills Network](https://skills.network/) 
+
+To display a clickable link without a name, enclose the link in angle brackets. <https://skills.network/ >
+
+Images can be rendered in the following format.
+
+Name of the Image: ![alt text](PATH)
+LOGO: ![This is the skills network logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png)
+
+Tables in Markdown
+To create tables, use:
+
+hyphens (----) for column headers
+pipes | to separate each column
+Text on a new line to separate each row
+
+| Country Name | Capital |
+| -------------| ------ |
+| United States | Washington DC |
+| Australia | Canberra |
+| India | New Delhi |
+
+
+
+Unordered List
+You can create an unordered list by adding dashes (-), asterisks (*), or plus signs (+) in front of line items.
+
+- First item using dashes
+- Second item using dashes
+- Third item using dashes
+- Fourth item using dashes
+
+* First item using asterisks
+* Second item using asterisks
+* Third item using asterisks
+* Fourth item using asterisks
+
++ First item using plus
++ Second item using plus
++ Third item using plus
++ Fourth item using plus
+
+
+Ordered List
+We can create an ordered list by adding line items with numbers followed by periods.
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
